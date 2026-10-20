@@ -6,6 +6,12 @@
 [![API REST](https://img.shields.io/badge/API-REST-green.svg)](https://jsonplaceholder.typicode.com/)
 [![HTTPS](https://img.shields.io/badge/Conexi%C3%B3n-HTTPS-brightgreen.svg)](https://developer.mozilla.org/es/docs/Web/HTTP/Overview)
 
+## Participantes
+
+- **Siri Vergara, Maria Alejandra**
+- **Villasante Contreras, Jean Paul**
+- **Santisteban Manrique, Adrian Daniel**
+
 ## 1. Descripción del proyecto
 
 NetAuto-Inventory es un proyecto académico de automatización desarrollado en Python para consultar información desde una API REST mediante una conexión HTTPS, procesar los datos recibidos en formato JSON y generar reportes en formatos JSON y CSV.
